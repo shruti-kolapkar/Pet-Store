@@ -27,7 +27,7 @@ Frontend: HTML, CSS, Bootstrap
 
 Database: SQLite / Django ORM
 
-Tools: VS Code, Git, Virtual Environment
+Tools: VS Code , Virtual Environment
 
 * How to Run
 git clone <repo-link>
